@@ -15,7 +15,7 @@ Contact information: pqc.group.utfpr at gmail dot com
 - Desenvolver e avaliar aplicações relacionadas a criptografia pós-quântica
 </aside>
 
-💡 **More information**: Link TBD
+💡 **More information**: [Link TBD](https://pqc-group-utfpr.github.io/)
 
 **Feel free to join/collaborate with us!**
 
